@@ -1,0 +1,33 @@
+{
+  "id": "/satoshi/",
+  "name": "SATOSHI SMART",
+  "short_name": "ساتوشي",
+  "description": "إدارة أعمالك أسهل مع ساتوشي",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/satoshi/",
+  "scope": "/satoshi/",
+  "display": "standalone",
+  "background_color": "#03133F",
+  "theme_color": "#03133F",
+  "icons": [
+    {
+      "src": "pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
